@@ -3,7 +3,7 @@
 
 title: "Children show neither attentional capture nor suppression"
 authors: [A. Vazquez, A. Choice, E. Blakley, K.M. Stockwell, N. Duggan, N. Gaspelin, and P. Gerhardstein]
-date: 2019-06-15T00:00:00Z
+date: 2019-06-28T00:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,22 +28,19 @@ tags: [Eye-Tracking, Attention]
 categories: []
 featured: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_pdf:
-url_code:
-url_dataset:
+links:
+- name: Associated News Article
+  url: https://www.binghamton.edu/news/story/1868/binghamton-university-welcomes-underrepresented-scholars-for-summer-researc
+url_pdf: 
+url_code: 
+url_dataset: 
 url_poster: 
 url_project:
 url_slides:
-url_source:
+url_source: 
 url_video: 
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
