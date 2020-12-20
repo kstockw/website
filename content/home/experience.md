@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Introduction to Psychology
+    company: Graduate Teaching Assistant
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: University of Virginia
+    date_start: '2020-01-01'
+    date_end: '2020-05-01'
     description: |2-
-        Responsibilities include:
+        Enrollment: ~300
+
+        Guest lecture on autism and social interaction
+ #       see if can link vid of lecture
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Introduction to Child Psychology
+    company: Graduate Teaching Assistant
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: University of Virginia
+    date_start: '2019-08-01'
+    date_end: '2019-12-31'
+    description: |2-
+        Enrollment: ~300
+
+  - title: Social Science Research Methods
+    company: Undergraduate Teaching Assistant
+    company_url: ''
+    location: Binghamton University, State University of New York
+    date_start: '2018-01-01'
+    date_end: '2018-05-01'
+    description: 'Enrollment: ~40'
+        
 ---
