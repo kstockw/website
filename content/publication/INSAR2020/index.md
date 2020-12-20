@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Special Interests Play Differential Roles in Stigmatization of Autistic Compared to Non-Autistic College Students."
+title: "Special Interests Play Differential Roles in Stigmatization of Autistic Compared to Non-Autistic College Students"
 authors: [K.M. Stockwell, S. Bottini, J. Gillis, and V. Jaswal]
-date: 2020-06-04T18:44:11-08:00
+date: 2020-06-04T00:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-18T18:44:11-08:00
+publishDate: 2020-12-18T00:00:00Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2020-12-18T18:44:11-08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Internationals Society for Autism Research_
-publication_short: "INSAR"
+publication: "International Society for Autism Research, Virtual Meeting, Seattle, WA"
+publication_short: ""
 
 abstract: ""
 
@@ -39,7 +39,7 @@ featured: false
 url_pdf:
 url_code:
 url_dataset:
-url_poster:
+url_poster: https://insar.confex.com/insar/2020/socog/eposterview.cgi?eposterid=629
 url_project:
 url_slides:
 url_source:
