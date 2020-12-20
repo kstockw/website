@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Stigma, Autism]
 categories: []
 featured: false
 

@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Brief Report: Social Behavior and Special Interests in the Stigmatization of Autistic College Students"
-authors: [K.M. Stockwell, S. Bottini, V.K. Jaswal, and J.M. Gillis]
-date: 2020-11-04T18:44:11-08:00
-doi: "https://doi.org/10.1007/s10803-020-04769-w"
+title: "Children show neither attentional capture nor suppression"
+authors: [A. Vazquez, A. Choice, E. Blakley, K.M. Stockwell, N. Duggan, N. Gaspelin, and P. Gerhardstein]
+date: 2019-06-15T00:00:00Z
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-19T18:44:11-08:00
+publishDate: 2020-12-18T00:00:00Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: _Journal of Autism and Developmental Disorders_
+publication: "Binghamton Bridges to Baccalaureate Program Research Session, Vestal, NY"
 publication_short: ""
 
-abstract: "Autistic people, by definition, differ in social behavior from non-autistic individuals. One characteristic common to many autistic people is a special interest in a particular topic—something spoken about with such frequency and intensity that it may be stigmatized by non-autistic peers. We investigated college students’ interest in interacting with peers described as behaving in ways characteristic of autism (or not), and additionally described as having a special interest (or not). As expected, autistic characters were more stigmatized, but autistic characters with a special interest were not more stigmatized than those without. Only among non-autistic characters was having a special interest associated with greater stigmatization. Findings give further insight into factors influencing the stigmatization of autistic college students."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Stigma, Autism]
+tags: [Eye-Tracking, Attention]
 categories: []
 featured: false
 
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://rdcu.be/b9Kwr
+url_pdf:
 url_code:
 url_dataset:
-url_poster:
+url_poster: 
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
