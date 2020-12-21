@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Comparison of non-live psychoeducation instructional methodology"
-authors: [L. McArdell, S. Hemnani, K.M. Stockwell and J. Gillis-Mattson]
-date: 2018-03-03T00:00:00Z
+title: "The consequences of dopamine and acetylcholine lesions on cognitive ability in rats"
+authors: [J. Bagg, K. Cash, N. Lista, K.M. Stockwell, and C. Kiessling]
+date: 2015-04-03T00:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Annual Meeting of the Eastern Psychological Association, Philadelphia, PA"
+publication: "Psi Chi Undergraduate Research Fair, Vestal, NY"
 publication_short: ""
 
 abstract: ""

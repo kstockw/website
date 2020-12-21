@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Comparison of non-live psychoeducation instructional methodology"
-authors: [L. McArdell, S. Hemnani, K.M. Stockwell and J. Gillis-Mattson]
-date: 2018-03-03T00:00:00Z
+title: "Target actions of an a2-noradrenergic receptor agonist and antagonist in modulating L-DOPA-induced dyskinesia in a Parkinsonian model"
+authors: [M. Piazza, K. Cash, S. Chen, K.M. Stockwell, A. Halat, A. Vincent, S. Meadows, and C. Kiessling]
+date: 2016-02-03T00:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Annual Meeting of the Eastern Psychological Association, Philadelphia, PA"
+publication: "29th Annual Northeast Under/graduate Research Organization for Neuroscience (NEURON) Conference, Hamden, CT"
 publication_short: ""
 
 abstract: ""
