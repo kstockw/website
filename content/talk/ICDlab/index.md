@@ -1,10 +1,10 @@
 ---
-title: Stigma and autism spectrum disorder in higher education
+title: The differential outcomes effect in children and adults
 
-event: "SUNY Central Conversations in the Disciplines: Promoting Wellbeing in College Students with Autism Spectrum Disorders"
+event: "Institute for Child Development Laboratory Meeting"
 event_url: 
 
-location: Owego, NY
+location: Vestal, NY
 address:
   street: 
   city: 
@@ -17,15 +17,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-03-23T13:00:00Z"
+date: "2019-04-16T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-12-20T00:00:00Z"
 
-authors: [K.M. Stockwell and J. Gillis-Mattson]
-tags: [Stigma, Autism]
+authors: [K.M. Stockwell]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -209,6 +209,10 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+# Configuration of talk pages.
+[talks]
+date_format = "January 2006"
+
 ############################
 ## Comments
 ############################
