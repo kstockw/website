@@ -29,7 +29,7 @@ categories: []
 featured: false
 
 links:
-- name: Associated News Article
+- name: Bridges to Baccalaureate Program
   url: https://www.binghamton.edu/news/story/1868/binghamton-university-welcomes-underrepresented-scholars-for-summer-researc
 url_pdf: 
 url_code: 

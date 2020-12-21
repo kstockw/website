@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Special interests play differential roles in stigmatization of autistic compared to non-autistic college students"
-authors: [K.M. Stockwell, S. Bottini, J. Gillis, and V. Jaswal]
-date: 2020-06-04T00:00:00Z
+title: "The relation between cognitive flexibility and ASD and OCD traits"
+authors: [K.M. Stockwell, M. Grega, K. Wiseman, R. Romanczyk, and J. Gillis-Mattson]
+date: 2018-04-28T00:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Society for Autism Research, Virtual Meeting, Seattle, WA"
+publication: "Psi Chi Undergraduate Research Fair and Binghamton University Research Days, Vestal, NY"
 publication_short: ""
 
 abstract: ""
@@ -24,26 +24,21 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Stigma, Autism]
+tags: [Autism]
 categories: []
 featured: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_pdf:
-url_code:
-url_dataset:
-url_poster: https://insar.confex.com/insar/2020/socog/eposterview.cgi?eposterid=629
+links:
+url_pdf: 
+url_code: 
+url_dataset: 
+url_poster: 
 url_project:
 url_slides:
-url_source:
-url_video: https://www.youtube.com/watch?v=XBiDf5DdHBA&t=2s
+url_source: 
+url_video: 
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
