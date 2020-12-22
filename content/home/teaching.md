@@ -34,16 +34,23 @@ subtitle = ""
 +++
 
 ## **Guest Lectures**
-- **Stereotypes and Prejudice**. Ontario Tech University. Spring 2021.
+- **Stereotypes and Prejudice** (Ontario Tech University, Spring 2021)
     * Stigma and Disability
 
 ## **Graduate Teaching Assistant**
-- **Introduction to Psychology**. Spring 2020. 
+- **Introduction to Psychology** (University of Virginia, Spring 2020)
     * Enrollment: ~300
-
-- **Introduction to Child Development**. Fall 2019.
+    * <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/iT1bzT0lWm4"
+    target="_blank" rel="noopener">
+    Lecture: What is autism and how do autistic people interact?
+    </a>  
+    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="KAYDEN FIX"
+    target="_blank" rel="noopener">
+    Lecture Transcript
+    </a>      
+- **Introduction to Child Development** (University of Virginia, Fall 2019)
     * Enrollment: ~300
 
 ## **Undergraduate Teaching Assistant**
-- **Social Science Research Methods**. Spring 2018.
+- **Social Science Research Methods** (Binghamton University, Spring 2018)
     * Enrollment: ~40

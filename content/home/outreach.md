@@ -48,13 +48,20 @@ subtitle = ""
 +++
 
 ## **Presentations**
+K.M. Stockwell (October, 2020). Disability and graduate school applications. University of Virginia Diversifying Psychology Visit Day. Charlottesville, VA.
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=4o5MHAV9MFg&t=9104s"
+target="_blank" rel="noopener">
+  Video
+</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://docs.google.com/document/d/18KV8G0K10_TYjaKTjNXfghoOUF5hn9DKUtEpG7W0XNQ/edit?usp=sharing"
+target="_blank" rel="noopener">
+  Screenreader Friendly Transcript
+</a>
 
-K.M. Stockwell (October, 2020). Disability and graduate school applications. [University of Virginia Diversifying Psychology Visit Day.](https://psychology.as.virginia.edu/2020-diversifying-psychology-visit-day) Charlottesville, VA.
-
-{{< youtubetime 4o5MHAV9MFg 9103 9852 >}}
-
-[Click here for a screenreader friendly transcript.](https://docs.google.com/document/d/18KV8G0K10_TYjaKTjNXfghoOUF5hn9DKUtEpG7W0XNQ/edit?usp=sharing)
-
+<!-- {{< youtubetime 4o5MHAV9MFg 9103 9852 >}} 
+ <p style="margin-left: 11%"> 
+ <a href="https://docs.google.com/document/d/18KV8G0K10_TYjaKTjNXfghoOUF5hn9DKUtEpG7W0XNQ/edit?usp=sharing">Click here for a screenreader friendly transcript.</a>
+ </p> --> 
 
 K.M. Stockwell (October, 2020). Lived experience of autistic college and graduate students. [University of Virginia Science and Lived Experience of Autism Class.](https://jaswallab.wordpress.com/resources/tribe-uva-partnership/) Charlottesville, VA.
 
@@ -94,4 +101,4 @@ iframe {width:100%;}}}
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/wYcBDHJ0Zt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-[Click here for Part 1's transcript](https://www.buzzsprout.com/1212179/6609133) and here for Part 2's transcript. (avaliable soon)
+[Click here for Part 1's transcript](https://www.buzzsprout.com/1212179/6609133) and here for Part 2's transcript (avaliable soon).

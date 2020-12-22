@@ -45,12 +45,15 @@ social:
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_q3T6ukAAAAJ&hl=en&oi=ao
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kayden_Stockwell
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3887-796X
 - icon: github
   icon_pack: fab
   link: https://github.com/kstockw
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/kaydenstockwell/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
