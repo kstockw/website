@@ -49,8 +49,12 @@ subtitle = ""
 
 ## **Presentations**
 
-K.M. Stockwell(October, 2020). Disability and graduate school applications. [University of Virginia Diversifying Psychology Visit Day.](https://psychology.as.virginia.edu/2020-diversifying-psychology-visit-day) Charlottesville, VA.
-- In addition to presenting, I took the lead in creating a transcript of the event and captioning the recording.
+K.M. Stockwell (October, 2020). Disability and graduate school applications. [University of Virginia Diversifying Psychology Visit Day.](https://psychology.as.virginia.edu/2020-diversifying-psychology-visit-day) Charlottesville, VA.
+
+{{< youtubetime 4o5MHAV9MFg 9103 9852 >}}
+
+[Click here for a screenreader friendly transcript.](https://docs.google.com/document/d/18KV8G0K10_TYjaKTjNXfghoOUF5hn9DKUtEpG7W0XNQ/edit?usp=sharing)
+
 
 K.M. Stockwell (October, 2020). Lived experience of autistic college and graduate students. [University of Virginia Science and Lived Experience of Autism Class.](https://jaswallab.wordpress.com/resources/tribe-uva-partnership/) Charlottesville, VA.
 
@@ -88,3 +92,6 @@ iframe {width:100%;}}}
 <div class="full-width">
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/0u8se-A99og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/wYcBDHJ0Zt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+[Click here for Part 1's transcript](https://www.buzzsprout.com/1212179/6609133) and here for Part 2's transcript. (avaliable soon)

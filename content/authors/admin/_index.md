@@ -42,12 +42,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KaydenStockwell
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=_q3T6ukAAAAJ&hl=en&oi=ao
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/#gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kstockw
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kaydenstockwell/
@@ -58,6 +58,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: media/resume.pdf
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}cv{{< /staticref >}}.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ks6hv@virginia.edu"
@@ -67,8 +68,9 @@ highlight_name: true
 
 ---
 
-Hello! My name is Kayden Stockwell and I am a Ph.D. student at the University of Virginia. I study developmental psychology with a concentration in quantitative methods. My primary advisor is Dr. Vikram Jaswal and I study autistic social interaction and perceptions of autistic people. I also work with Dr. Tanya Evans to study live dyadic interactions using EEG hyperscanning.
+Hello! My name is Kayden Stockwell and I am a Ph.D. student at the University of Virginia studying developmental psychology with a concentration in quantitative methods. Under the supervision of Dr. Vikram Jaswal, I investigate autistic social interaction and perceptions of autistic people. I also work with Dr. Tanya Evans to study live dyadic interactions using EEG hyperscanning.
 
 I am also passionate about increasing access for disabled students in higher education in addition to being active with local LGBTQ+ organizations. I aim to continue advocacy in these areas and to bring the queer and disability communities closer together.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}cv{{< /staticref >}}.
+
+
