@@ -1,0 +1,82 @@
++++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true
+# Activate this widget? true/false
+weight = 80  # Order that this section will appear.
+
+title = "Outreach"
+subtitle = ""
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+   color = "white"
+   
+  # Background image.
+  # image = "image.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+## **Presentations**
+
+K.M. Stockwell(October, 2020). Disability and graduate school applications. [University of Virginia Diversifying Psychology Visit Day.](https://psychology.as.virginia.edu/2020-diversifying-psychology-visit-day) Charlottesville, VA.
+- In addition to presenting, I took the lead in creating a transcript of the event and captioning the recording.
+
+K.M. Stockwell (October, 2020). Lived experience of autistic college and graduate students. [University of Virginia Science and Lived Experience of Autism Class.](https://jaswallab.wordpress.com/resources/tribe-uva-partnership/) Charlottesville, VA.
+
+M. Coyle, K.M. Stockwell, and E. Yamazaki. (April, 2019). So you want to do an honors thesis in psychology?. Binghamton University Psi Chi Chapter. Vestal, NY.
+
+T.Q Nguyen, S. Pilato and K.M Stockwell. (March, 2019). Applying to psychology and neuroscience graduate programs. Binghamton University Student Psychological Association. Vestal, NY.
+
+K.M Stockwell. (June, 2018). The importance of undergraduate research experiences. Long Beach Polytechnic High School AP Biology Class. Long Beach, CA.
+
+K.M. Stockwell. (April, 2018). Autism and the college transition. It’s All in the Planning! Transition Conference. Hudson, NY.
+
+K.M. Stockwell (October, 2017). Disabilities and taking initiative to foster employment skills. Keynote Speaker at Broome-Tioga BOCES 2017 Mentoring Day. Binghamton, NY.
+
+J. Marmorsky, K.M. Stockwell, and D. Gray. (November, 2016). Facilitating student access, participation, and development. Binghamton University Fraternities and Sororities Leadership Conference. Vestal, NY.
+ 
+K.M. Stockwell and D. Gray. (October, 2016). Autism in higher education. Binghamton University Faculty Training Session. Vestal, NY.
+
+## **Socail Media**
+
+I co-run the [@DisInGradSchool](https://twitter.com/DisInGradSchool) Twitter account with [Cait Kirby](https://caitkirby.com/). We aim to provide connections and resources for disabled graduate students. In October 2020, we released [daily actions](https://t.co/LJJ5xI7dcj?amp=1) that disabled students and non-disabled allies could take to work to increase accessibility in the academy. We also appeared on the Dear Grad Student podcast to discuss ableism in academia.
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/0u8se-A99og" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border:0;" allowfullscreen title="Disabled in Grad School: Ableism, Accessibility, & Burning It All Down Part 1></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/wYcBDHJ0Zt4" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border:0;" allowfullscreen title="Disabled in Grad School: Ableism, Accessibility, & Burning It All Down Part 2"></iframe>
+</div>
