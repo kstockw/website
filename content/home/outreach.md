@@ -68,15 +68,23 @@ J. Marmorsky, K.M. Stockwell, and D. Gray. (November, 2016). Facilitating studen
  
 K.M. Stockwell and D. Gray. (October, 2016). Autism in higher education. Binghamton University Faculty Training Session. Vestal, NY.
 
-## **Socail Media**
+## **Social Media**
 
 I co-run the [@DisInGradSchool](https://twitter.com/DisInGradSchool) Twitter account with [Cait Kirby](https://caitkirby.com/). We aim to provide connections and resources for disabled graduate students. In October 2020, we released [daily actions](https://t.co/LJJ5xI7dcj?amp=1) that disabled students and non-disabled allies could take to work to increase accessibility in the academy. We also appeared on the Dear Grad Student podcast to discuss ableism in academia.
 
+<style>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/0u8se-A99og" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border:0;" allowfullscreen title="Disabled in Grad School: Ableism, Accessibility, & Burning It All Down Part 1></iframe>
-</div>
+div.full-width {position:relative;float:left;width:100%;}
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/wYcBDHJ0Zt4" style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; border:0;" allowfullscreen title="Disabled in Grad School: Ableism, Accessibility, & Burning It All Down Part 2"></iframe>
-</div>
+@media screen
+
+  and (min-width: 0px), screen and (min-device-width:0) {
+
+div.video {position:relative;float:left;padding:5px;width:50%;}
+
+iframe {width:100%;}}}
+
+</style>
+<div class="full-width">
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/0u8se-A99og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/wYcBDHJ0Zt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
