@@ -2,8 +2,8 @@
 title: Autism Terminology Preferences
 summary: This project focuses on understanding (1) what labels people with a connection to autism prefer and (2) how particular labels may contribute to or reduce the stigmatization of people who have a diagnosis of autism.
 tags:
-- Autistic
-- Non-autistic
+- Autism
+- Stigma
 - Jaswal Lab
 date: "2020-12-21T00:00:00Z"
 

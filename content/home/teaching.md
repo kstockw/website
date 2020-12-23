@@ -31,14 +31,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 # check screenreader friendlyness with the <span>&#160;</span> issue KAYDEN
+
+[future]
+### **Guest Lectures**
+# <h5 style="display:inline;"><span>&#160;</span>Stereotypes and Prejudice</h5> <style="display:inline;"> (Ontario Tech University, Spring 2021)
+# <ul>Lecture: Stigma and Disability</ul> -->
+
 +++
-
-## **Guest Lectures**
-<h5 style="display:inline;"><span>&#160;</span>Stereotypes and Prejudice</h5> <style="display:inline;">(Ontario Tech University, Spring 2021)
-<ul>Lecture: Stigma and Disability</ul>
-
 ## **Graduate Teaching Assistant**
-<h5 style="display:inline;"><span>&#160;</span>Introduction to Psychology</h5> <style="display:inline;">(University of Virginia, Spring 2020)
+<h5 style="display:inline;"><span>&#160;</span>Introduction to Psychology</h5> <style="display:inline;"> (University of Virginia, Spring 2020)
 <ul>Enrollment: ~300
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/iT1bzT0lWm4"
@@ -51,9 +52,9 @@ subtitle = ""
     </a>
     </ul>     
     
-<h5 style="display:inline;"><span>&#160;</span>Introduction to Child Development</h5> <style="display:inline;">(University of Virginia, Fall 2019)
+<h5 style="display:inline;"><span>&#160;</span>Introduction to Child Development</h5> <style="display:inline;">  (University of Virginia, Fall 2019)
 <ul>Enrollment: ~300</ul>
 
 ## **Undergraduate Teaching Assistant**
-<h5 style="display:inline;"><span>&#160;</span>Social Science Research Methods</h5> <style="display:inline;">(Binghamton University, Spring 2018)
+<h5 style="display:inline;"><span>&#160;</span>Social Science Research Methods</h5> <style="display:inline;"> (Binghamton University, Spring 2018)
 <ul>Enrollment: ~40</ul>

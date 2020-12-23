@@ -45,9 +45,9 @@ social:
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_q3T6ukAAAAJ&hl=en&oi=ao
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Kayden_Stockwell
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Kayden_Stockwell
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3887-796X
@@ -73,7 +73,7 @@ highlight_name: true
 
 Hello! My name is Kayden Stockwell and I am a Ph.D. student at the University of Virginia studying developmental psychology with a concentration in quantitative methods. Under the supervision of Dr. Vikram Jaswal, I investigate autistic social interaction and perceptions of autistic people. I also work with Dr. Tanya Evans to study live dyadic interactions using EEG hyperscanning.
 
-I am also passionate about increasing access for disabled students in higher education in addition to being active with local LGBTQ+ organizations. I aim to continue advocacy in these areas and to bring the queer and disability communities closer together.
+Outside of the lab, I am passionate about increasing access for disabled students in higher education in addition to being active with local LGBTQ+ organizations. I aim to continue advocacy in these areas and to bring the queer and disability communities closer together.
 
 
 

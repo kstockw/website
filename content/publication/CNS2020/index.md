@@ -24,7 +24,7 @@ abstract: "Hyperscanning, the simultaneous recording of brain activity from mult
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [EEG, Dyadic Interaction]
+tags: [EEG, Dyadic Interaction, Evans Lab]
 categories: []
 featured: false
 

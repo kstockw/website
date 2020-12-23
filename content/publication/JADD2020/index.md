@@ -24,7 +24,7 @@ abstract: "Autistic people, by definition, differ in social behavior from non-au
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Stigma, Autism]
+tags: [Stigma, Autism, Jaswal Lab]
 categories: []
 featured: false
 

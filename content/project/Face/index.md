@@ -2,7 +2,8 @@
 title: Impact of Autism Label on Face Recognition
 summary: ""
 tags:
-- Non-autistic
+- Autism
+- Stigma
 - Jaswal Lab
 date: "2020-12-22T00:00:00Z"
 

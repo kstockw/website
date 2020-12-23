@@ -2,7 +2,8 @@
 title: Autism and Universal Design Training for Higher Education Faculty
 summary: I am a collaborator on an international project developing training to improve faculty and graduate teaching assistants' understanding of autistic college students and of the principles of Universal Design. This project is led and developed by a team of autistic and non-autistic researchers.
 tags:
-- Non-autistic
+- Autism
+- Stigma
 - Collaboration
 date: "2020-12-22T00:00:00Z"
 

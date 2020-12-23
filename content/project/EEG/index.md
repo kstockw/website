@@ -2,8 +2,9 @@
 title: Dyadic Hyperscanning
 summary: This project involves autistic and non-autistic children participating in a variety of games and activities with a parent while wearing mobile EEG headsets. We are interested in markers of neural and behavioral synchrony in addition to objective and subjective indicators of parent-child connection.
 tags:
-- Autistic
-- Non-autistic
+- Autism
+- Dyadic Interaction
+- EEG
 - Evans Lab
 date: "2020-12-22T00:00:00Z"
 

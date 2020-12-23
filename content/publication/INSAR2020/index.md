@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Stigma, Autism]
+tags: [Stigma, Autism, Jaswal Lab]
 categories: []
 featured: false
 
