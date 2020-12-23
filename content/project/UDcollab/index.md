@@ -1,18 +1,13 @@
 ---
-title: Dyadic Hyperscanning
-summary: This project involves autistic and non-autistic children participating in a variety of games and activities with a parent while wearing mobile EEG headsets. We are interested in markers of neural and behavioral synchrony in addition to objective and subjective indicators of parent-child connection.
+title: Autism and Universal Design Training for Higher Education Faculty
+summary: I am a collaborator on an international project developing training to improve faculty and graduate teaching assistants' understanding of autistic college students and of the principles of Universal Design. This project is led and developed by a team of autistic and non-autistic researchers.
 tags:
-- Autistic
 - Non-autistic
-- Evans Lab
+- Collaboration
 date: "2020-12-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "publication/cns2020/"
-
-image:
-  caption: Alt Text
-  focal_point: Smart
+external_link: "https://autismresearchinternational.wordpress.com/"
 
 links:
 #- icon: twitter
@@ -31,10 +26,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Background:**
-
-
-**Objective:**
-
-
-**Method:**

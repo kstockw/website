@@ -4,6 +4,7 @@ summary: This project focuses on understanding (1) what labels people with a con
 tags:
 - Autistic
 - Non-autistic
+- Jaswal Lab
 date: "2020-12-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -4,7 +4,7 @@
 widget = "blank"  
 headless = true  
 active = true
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -30,27 +30,30 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-
+# check screenreader friendlyness with the <span>&#160;</span> issue KAYDEN
 +++
 
 ## **Guest Lectures**
-- **Stereotypes and Prejudice** (Ontario Tech University, Spring 2021)
-    * Stigma and Disability
+<h5 style="display:inline;"><span>&#160;</span>Stereotypes and Prejudice</h5> <style="display:inline;">(Ontario Tech University, Spring 2021)
+<ul>Lecture: Stigma and Disability</ul>
 
 ## **Graduate Teaching Assistant**
-- **Introduction to Psychology** (University of Virginia, Spring 2020)
-    * Enrollment: ~300
-    * <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/iT1bzT0lWm4"
+<h5 style="display:inline;"><span>&#160;</span>Introduction to Psychology</h5> <style="display:inline;">(University of Virginia, Spring 2020)
+<ul>Enrollment: ~300
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/iT1bzT0lWm4"
     target="_blank" rel="noopener">
     Lecture: What is autism and how do autistic people interact?
-    </a>  
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="KAYDEN FIX"
+    </a>   
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="KAYDEN FIX"
     target="_blank" rel="noopener">
     Lecture Transcript
-    </a>      
-- **Introduction to Child Development** (University of Virginia, Fall 2019)
-    * Enrollment: ~300
+    </a>
+    </ul>     
+    
+<h5 style="display:inline;"><span>&#160;</span>Introduction to Child Development</h5> <style="display:inline;">(University of Virginia, Fall 2019)
+<ul>Enrollment: ~300</ul>
 
 ## **Undergraduate Teaching Assistant**
-- **Social Science Research Methods** (Binghamton University, Spring 2018)
-    * Enrollment: ~40
+<h5 style="display:inline;"><span>&#160;</span>Social Science Research Methods</h5> <style="display:inline;">(Binghamton University, Spring 2018)
+<ul>Enrollment: ~40</ul>

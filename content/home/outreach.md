@@ -1,7 +1,5 @@
 +++
-# A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -17,13 +15,8 @@ subtitle = ""
   columns = "2"
 
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
   # Background color.
-   color = "white"
+   color = "#f7f7f7"
    
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,18 +43,13 @@ subtitle = ""
 ## **Presentations**
 K.M. Stockwell (October, 2020). Disability and graduate school applications. University of Virginia Diversifying Psychology Visit Day. Charlottesville, VA.
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=4o5MHAV9MFg&t=9104s"
-target="_blank" rel="noopener">
-  Video
-</a>
+    target="_blank" rel="noopener">
+    Video
+    </a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://docs.google.com/document/d/18KV8G0K10_TYjaKTjNXfghoOUF5hn9DKUtEpG7W0XNQ/edit?usp=sharing"
-target="_blank" rel="noopener">
-  Screenreader Friendly Transcript
-</a>
-
-<!-- {{< youtubetime 4o5MHAV9MFg 9103 9852 >}} 
- <p style="margin-left: 11%"> 
- <a href="https://docs.google.com/document/d/18KV8G0K10_TYjaKTjNXfghoOUF5hn9DKUtEpG7W0XNQ/edit?usp=sharing">Click here for a screenreader friendly transcript.</a>
- </p> --> 
+    target="_blank" rel="noopener">
+    Screenreader Friendly Transcript
+    </a> 
 
 K.M. Stockwell (October, 2020). Lived experience of autistic college and graduate students. [University of Virginia Science and Lived Experience of Autism Class.](https://jaswallab.wordpress.com/resources/tribe-uva-partnership/) Charlottesville, VA.
 

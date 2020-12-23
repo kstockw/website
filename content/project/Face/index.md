@@ -3,6 +3,7 @@ title: Impact of Autism Label on Face Recognition
 summary: ""
 tags:
 - Non-autistic
+- Jaswal Lab
 date: "2020-12-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

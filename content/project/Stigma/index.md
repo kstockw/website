@@ -3,6 +3,7 @@ title: Stigmatization of Autistic College Students
 summary: This project began as my undergraduate honors thesis. It considers how non-autistic college students’ interest in interacting with peers is impacted by the peers’ social behavior and special interests. You can read the first paper from this study in my Publications section!
 tags:
 - Non-autistic
+- Jaswal Lab
 date: "2020-12-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
