@@ -46,7 +46,7 @@ subtitle = ""
     target="_blank" rel="noopener">
     Lecture: What is autism and how do autistic people interact?
     </a>   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="KAYDEN FIX"
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://docs.google.com/document/d/1GSxDzRlYscZ88MaNULWxSRb1XK54k6aMX2ViWfTINeQ/edit"
     target="_blank" rel="noopener">
     Lecture Transcript
     </a>
