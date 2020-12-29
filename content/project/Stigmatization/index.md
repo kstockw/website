@@ -11,7 +11,7 @@ date: "2020-12-22T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Alt Text
+  caption: A red cartoon figure is seperated from multiple blue cartoon figures by a brick wall.
   focal_point: Smart
 
 links:

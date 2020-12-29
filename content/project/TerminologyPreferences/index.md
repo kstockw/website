@@ -11,7 +11,7 @@ date: "2020-12-21T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Alt Text
+  caption: A white cartoon person is pictured from the chest up. On their left is a floating thumbs up sign and on their right is a floating thumbs down sign. The thumb signs are encased in thought bubbles. 
   focal_point: Smart
 
 links:

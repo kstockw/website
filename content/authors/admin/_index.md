@@ -69,6 +69,9 @@ email: "ks6hv@virginia.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+image:
+  caption: A white man with glasses wearing a blue sweater has his arms crossed. He is smiling and leaning on a brick wall.
+  focal_point: Smart
 ---
 
 Hello! My name is Kayden Stockwell and I am a Ph.D. student at the University of Virginia studying developmental psychology with a concentration in quantitative methods. Under the supervision of Dr. Vikram Jaswal, I investigate autistic social interaction and perceptions of autistic people. I also work with Dr. Tanya Evans to study live dyadic interactions using EEG hyperscanning.

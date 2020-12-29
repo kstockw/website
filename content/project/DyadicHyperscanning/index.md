@@ -12,7 +12,7 @@ date: "2020-12-22T00:00:00Z"
 external_link: "publication/cns2020/"
 
 image:
-  caption: Alt Text
+  caption: A blonde white woman and blonde white young girl are reading a book and smiling. Both are wearing EEG caps.
   focal_point: Smart
 
 links:

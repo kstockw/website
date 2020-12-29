@@ -10,9 +10,9 @@ date: "2020-12-22T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Alt Text
-  focal_point: Smart
+# image:
+#  caption: Alt Text
+#  focal_point: Smart
 
 links:
 #- icon: twitter
