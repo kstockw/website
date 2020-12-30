@@ -14,12 +14,9 @@
 
 {{ if ne $columns "1" }}
 {{/* Standard dual-column layout. */}}
-
+{{/* worked but now no color seperation between this and poster and the alignment slightly off from poster */}}
 <div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    {{ with $st.Title }}<h1 class="mt-0">{{ . | markdownify | emojify }}</h1>{{ end }}
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-
   </div>
   <div class="col-12 col-lg-8">
 
