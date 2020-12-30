@@ -6,6 +6,7 @@ tags:
 - Stigma
 - Jaswal Lab
 date: "2020-12-22T00:00:00Z"
+alt_text: A red cartoon figure is seperated from multiple blue cartoon figures by a brick wall.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,6 +32,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+![A red cartoon figure is seperated from multiple blue cartoon figures by a brick wall.](projImage.jpg)
 **Background:**
 Autistic people often differ from non-autistic people in their style of interaction, which can lead non-autistic people to be reluctant to interact with them (Sasson et al., 2017). This manifestation of stigma can negatively impact mental health and reduce opportunities to form relationships (Slavich et al., 2009). Approximately 44% of autistic young adults enroll in college within eight years of completing high school (Newman et al., 2011), making college an important setting in which to understand the stigmatization of autistic students (e.g., Gillespie-Lynch et al., 2020; Stockwell et al., 2020). A better understanding of which kinds of social activities are most likely to result in stigmatization may be helpful in the development of interventions to reduce the stigmatizing beliefs and behaviors of non-autistic people.
 

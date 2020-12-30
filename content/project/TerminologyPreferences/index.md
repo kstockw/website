@@ -6,6 +6,7 @@ tags:
 - Stigma
 - Jaswal Lab
 date: "2020-12-21T00:00:00Z"
+alt_text: A white cartoon person is pictured from the chest up. On their left is a floating thumbs up sign and on their right is a floating thumbs down sign. The thumb signs are encased in thought bubbles.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,6 +14,8 @@ external_link: ""
 image:
   caption: A white cartoon person is pictured from the chest up. On their left is a floating thumbs up sign and on their right is a floating thumbs down sign. The thumb signs are encased in thought bubbles. 
   focal_point: Smart
+  alt_text: Field doesn't work. This is is you use Featured Image which doesn't support alt text as of now
+
 
 links:
 #- icon: twitter
@@ -29,8 +32,10 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+
 ---
+![A white cartoon person is pictured from the chest up. On their left is a floating thumbs up sign and on their right is a floating thumbs down sign. The thumb signs are encased in thought bubbles.](projImage.jpg)
+
 **Background:**
 Understanding the terminology preferences of autism community members is an important step towards avoiding ableist language (Bottema-Beutel et al., 2020). For example, “person-first” language (i.e., “person with autism”) is common in scientific and popular discourse, but many Autistic self-advocates have criticized this in favor of “identity-first” language (i.e., “Autistic person”; Sinclair, 1999). 
 
