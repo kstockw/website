@@ -6,7 +6,7 @@ tags:
 - Stigma
 - Collaboration
 date: "2020-12-22T00:00:00Z"
-
+weight: 5
 # Optional external URL for project (replaces project detail page).
 external_link: "https://autismresearchinternational.wordpress.com/"
 

@@ -8,6 +8,7 @@ tags:
 - Evans Lab
 date: "2020-12-22T00:00:00Z"
 alt_text: A blonde white woman and blonde white young girl are reading a book and smiling. Both are wearing EEG caps. 
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: "publication/cns2020/"

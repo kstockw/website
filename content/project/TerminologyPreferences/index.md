@@ -7,7 +7,7 @@ tags:
 - Jaswal Lab
 date: "2020-12-21T00:00:00Z"
 alt_text: A white cartoon person is pictured from the chest up. On their left is a floating thumbs up sign and on their right is a floating thumbs down sign. The thumb signs are encased in thought bubbles.
-
+weight: 2
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

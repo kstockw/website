@@ -6,7 +6,7 @@ tags:
 - Stigma
 - Jaswal Lab
 date: "2020-12-22T00:00:00Z"
-
+weight: 4
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

@@ -7,7 +7,7 @@ tags:
 - Jaswal Lab
 date: "2020-12-22T00:00:00Z"
 alt_text: A red cartoon figure is seperated from multiple blue cartoon figures by a brick wall.
-
+weight: 1
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
