@@ -79,7 +79,7 @@
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*projImage*" }}
     {{ with $resource }}
     {{ $image := .Resize "150x" }}
-      <img src="{{ $image.RelPermalink }}" title="{{ $.Title }}" alt="{{ $alt_text}}">
+      <img src="{{ $image.RelPermalink }}" title="{{ $.Title }}" alt="{{ $alt_text }}">
     {{end}}
   </div>
 </div>

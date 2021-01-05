@@ -1,0 +1,22 @@
+{{ if and site.Params.sharing (ne .Params.share false) }}
+{{/* aria-hidden must be false in order for these links to be read by screen readers */}}
+<div class="share-box" aria-hidden="false">
+  <ul class="share">
+    {{ range where site.Data.page_sharer.buttons "enable" true }}
+      {{ $pack := or .icon_pack "fas" }}
+      {{ $pack_prefix := $pack }}
+      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+        {{ $pack_prefix = "fa" }}
+      {{ end }}
+      {{ $link := replace .url "{url}" ($.Permalink | htmlEscape) }}
+      {{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
+      <li>
+        {{/* needed to add aria-label so that these links can be approprietly read by screen readers */}}
+        <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}" aria-label="{{ .icon }}">
+          <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

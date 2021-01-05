@@ -69,6 +69,7 @@ email: "ks6hv@virginia.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+
 image:
   caption: A white man with glasses wearing a blue sweater has his arms crossed. He is smiling and leaning on a brick wall.
   focal_point: Smart

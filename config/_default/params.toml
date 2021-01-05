@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ks6hv@virginia.edu"
+email = "Email: ks6hv@virginia.edu"
 phone = ""
 
 # Address
@@ -179,6 +179,7 @@ plugins_js  = []
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
+
 
 # Configuration of publication pages.
 [publications]
