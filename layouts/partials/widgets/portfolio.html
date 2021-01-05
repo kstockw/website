@@ -14,7 +14,6 @@
 
 {{ if ne $columns "1" }}
 {{/* Standard dual-column layout. */}}
-{{/* worked but now no color seperation between this and poster and the alignment slightly off from poster */}}
 <div class="row">
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
@@ -92,4 +91,3 @@
     </div>
 
   </div>
-</div>
