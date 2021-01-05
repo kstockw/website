@@ -3,6 +3,7 @@
 
 title: "Brief Report: Social Behavior and Special Interests in the Stigmatization of Autistic College Students"
 authors: [K.M. Stockwell, S. Bottini, V.K. Jaswal, and J.M. Gillis]
+author: "K.M. Stockwell, S. Bottini, V.K. Jaswal, and J.M. Gillis"
 date: 2020-11-04T18:44:11-08:00
 doi: "https://doi.org/10.1007/s10803-020-04769-w"
 

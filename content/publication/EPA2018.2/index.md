@@ -3,6 +3,7 @@
 
 title: "Comparison of non-live psychoeducation instructional methodology"
 authors: [L. McArdell, S. Hemnani, K.M. Stockwell and J. Gillis-Mattson]
+author: "L. McArdell, S. Hemnani, K.M. Stockwell and J. Gillis-Mattson."
 date: 2018-03-03T00:00:00Z
 doi: ""
 

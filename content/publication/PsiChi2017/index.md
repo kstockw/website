@@ -3,6 +3,7 @@
 
 title: "The relation between sleep problems and psychological distress in undergraduate students"
 authors: [K.M. Stockwell, L. McArdell, and J. Gillis-Mattson]
+author: "K.M. Stockwell, L. McArdell, and J. Gillis-Mattson"
 date: 2017-04-28T00:00:00Z
 doi: ""
 

@@ -3,6 +3,7 @@
 
 title: "Special interests play differential roles in stigmatization of autistic compared to non-autistic college students"
 authors: [K.M. Stockwell, S. Bottini, J. Gillis, and V. Jaswal]
+author: "K.M. Stockwell, S. Bottini, J. Gillis, and V. Jaswal."
 date: 2020-06-04T00:00:00Z
 doi: ""
 

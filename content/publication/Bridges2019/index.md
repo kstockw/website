@@ -3,6 +3,7 @@
 
 title: "Children show neither attentional capture nor suppression"
 authors: [A. Vazquez, A. Choice, E. Blakley, K.M. Stockwell, N. Duggan, N. Gaspelin, and P. Gerhardstein]
+author: "A. Vazquez, A. Choice, E. Blakley, K.M. Stockwell, N. Duggan, N. Gaspelin, and P. Gerhardstein."
 date: 2019-06-28T00:00:00Z
 doi: ""
 

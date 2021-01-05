@@ -3,6 +3,7 @@
 
 title: "Characterizing social interaction via dyadic hyperscanning techniques"
 authors: [R. Xia, R. Chen, K.M. Stockwell, and T. Evans]
+author: "R. Xia, R. Chen, K.M. Stockwell, and T. Evans."
 date: 2020-05-15T00:00:00Z
 doi: ""
 

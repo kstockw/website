@@ -3,6 +3,7 @@
 
 title: "Saccadic pre-attentive measures provide insight into illusory contour detection in children"
 authors: [N. Duggan, E. Blakley, E. Yamazaki, K.M. Stockwell, A. Moser, and P. Gerhardstein]
+author: "N. Duggan, E. Blakley, E. Yamazaki, K.M. Stockwell, A. Moser, and P. Gerhardstein"
 date: 2019-05-15T00:00:00Z
 doi: ""
 

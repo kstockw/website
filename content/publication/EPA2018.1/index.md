@@ -3,6 +3,7 @@
 
 title: "Impact of behavior and special interest topic in the stigmatization of college students with ASD"
 authors: [K.M. Stockwell and J. Gillis-Mattson]
+author: "K.M. Stockwell and J. Gillis-Mattson."
 date: 2018-03-03T00:00:00Z
 doi: ""
 

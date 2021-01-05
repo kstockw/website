@@ -3,6 +3,7 @@
 
 title: "Target actions of an a2-noradrenergic receptor agonist and antagonist in modulating L-DOPA-induced dyskinesia in a Parkinsonian model"
 authors: [M. Piazza, K. Cash, S. Chen, K.M. Stockwell, A. Halat, A. Vincent, S. Meadows, and C. Kiessling]
+author: "M. Piazza, K. Cash, S. Chen, K.M. Stockwell, A. Halat, A. Vincent, S. Meadows, and C. Kiessling"
 date: 2016-02-03T00:00:00Z
 doi: ""
 

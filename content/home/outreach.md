@@ -57,7 +57,7 @@ M. Coyle, K.M. Stockwell, and E. Yamazaki. (April, 2019). So you want to do an h
 
 T.Q Nguyen, S. Pilato and K.M Stockwell. (March, 2019). Applying to psychology and neuroscience graduate programs. Binghamton University Student Psychological Association. Vestal, NY.
 
-K.M Stockwell. (June, 2018). The importance of undergraduate research experiences. Long Beach Polytechnic High School AP Biology Class. Long Beach, CA.
+K.M. Stockwell. (June, 2018). The importance of undergraduate research experiences. Long Beach Polytechnic High School AP Biology Class. Long Beach, CA.
 
 K.M. Stockwell. (April, 2018). Autism and the college transition. It’s All in the Planning! Transition Conference. Hudson, NY.
 

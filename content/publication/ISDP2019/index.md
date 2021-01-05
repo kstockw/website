@@ -3,6 +3,7 @@
 
 title: "Can children suppress attentional capture by salient distractors?"
 authors: [E. Blakley, K.M. Stockwell, N. Duggan, N. Gaspelin, and P. Gerhardstein]
+author: "E. Blakley, K.M. Stockwell, N. Duggan, N. Gaspelin, and P. Gerhardstein."
 date: 2019-10-15T00:00:00Z
 doi: ""
 

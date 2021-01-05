@@ -3,6 +3,7 @@
 
 title: "The relation between cognitive flexibility and ASD and OCD traits"
 authors: [K.M. Stockwell, M. Grega, K. Wiseman, R. Romanczyk, and J. Gillis-Mattson]
+author: "K.M. Stockwell, M. Grega, K. Wiseman, R. Romanczyk, and J. Gillis-Mattson"
 date: 2018-04-28T00:00:00Z
 doi: ""
 

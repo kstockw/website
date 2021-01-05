@@ -3,6 +3,7 @@
 
 title: "The consequences of dopamine and acetylcholine lesions on cognitive ability in rats"
 authors: [J. Bagg, K. Cash, N. Lista, K.M. Stockwell, and C. Kiessling]
+author: "J. Bagg, K. Cash, N. Lista, K.M. Stockwell, and C. Kiessling"
 date: 2015-04-03T00:00:00Z
 doi: ""
 

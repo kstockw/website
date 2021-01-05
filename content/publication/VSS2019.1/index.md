@@ -3,6 +3,7 @@
 
 title: "Global precedence effect in children with and without the use of complex instructions"
 authors: [E. Blakley, N. Duggan, K.M. Stockwell, S. Olsen, A. Moser, and P. Gerhardstein]
+author: "E. Blakley, N. Duggan, K.M. Stockwell, S. Olsen, A. Moser, and P. Gerhardstein"
 date: 2019-05-15T00:00:00Z
 doi: ""
 
