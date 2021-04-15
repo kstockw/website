@@ -1,9 +1,9 @@
 ---
 title: Autism and Universal Design Training for Higher Education Faculty
-summary: I am a collaborator on an international project developing training to improve faculty and graduate teaching assistants' understanding of autistic college students and of the principles of Universal Design. This project is led and developed by a team of autistic and non-autistic researchers.
+summary: I am a collaborator on an international project developing training to improve faculty and graduate teaching assistants' understanding of autistic college students and of the principles of Universal Design. This project is led and developed by a team of autistic and non-autistic researchers. You can access the training for free by clicking the button below.
+
 tags:
 - Autism
-- Stigma
 - Collaboration
 date: "2020-12-22T00:00:00Z"
 weight: 5
@@ -19,6 +19,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+url_source: "https://www.researchgate.net/publication/349832158_Autism_UD_Training_for_FacultyTeachers_and_other_University_Staff#fullTextFileContent"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

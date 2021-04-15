@@ -14,7 +14,7 @@ external_link: ""
 image:
   caption: A white cartoon person is pictured from the chest up. On their left is a floating thumbs up sign and on their right is a floating thumbs down sign. The thumb signs are encased in thought bubbles. 
   focal_point: Smart
-  alt_text: Field doesn't work. This is is you use Featured Image which doesn't support alt text as of now
+  alt_text: Field doesn't work. This is if you use Featured Image which doesn't support alt text as of now
 
 
 links:
@@ -26,6 +26,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

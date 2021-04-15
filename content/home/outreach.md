@@ -41,14 +41,16 @@ subtitle = ""
 +++
 
 ## **Presentations**
+K.M. Stockwell, C. Pettit, and A. Wood. (March, 2021). Applying to graduate school. University of Virginia Mentoring Series. Charlottesville, VA.
+
 K.M. Stockwell (October, 2020). Disability and graduate school applications. University of Virginia Diversifying Psychology Visit Day. Charlottesville, VA.
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=4o5MHAV9MFg&t=9104s"
     target="_blank" rel="noopener">
-    Video
+    Watch Presentation
     </a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://docs.google.com/document/d/18KV8G0K10_TYjaKTjNXfghoOUF5hn9DKUtEpG7W0XNQ/edit?usp=sharing"
     target="_blank" rel="noopener">
-    Screenreader Friendly Transcript
+    Presentation Transcript
     </a> 
 
 K.M. Stockwell (October, 2020). Lived experience of autistic college and graduate students. [University of Virginia Science and Lived Experience of Autism Class.](https://jaswallab.wordpress.com/resources/tribe-uva-partnership/) Charlottesville, VA.
