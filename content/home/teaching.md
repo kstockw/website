@@ -54,6 +54,9 @@ subtitle = ""
 </ul>
 
 ## **Graduate Teaching Assistant**
+<h5 style="display:inline;"><span>&#160;</span>Autism: From Neurons to Neighborhoods</h5> <style="display:inline;"> (University of Virginia, Fall 2021)
+<ul>Enrollment: ~25</ul>
+
 <h5 style="display:inline;"><span>&#160;</span>Introduction to Psychology</h5> <style="display:inline;"> (University of Virginia, Spring 2020)
 <ul>Enrollment: ~300
 
