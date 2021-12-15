@@ -75,7 +75,7 @@ image:
   focal_point: Smart
 ---
 
-My name is Kayden Stockwell and I am a Ph.D. student at the University of Virginia studying developmental psychology with a concentration in quantitative methods. Under the supervision of Dr. Vikram Jaswal, I investigate autistic social interaction and perceptions of autistic people. I also work with Dr. Tanya Evans to study live dyadic interactions using EEG hyperscanning. Test1
+My name is Kayden Stockwell and I am a Ph.D. student at the University of Virginia studying developmental psychology with a concentration in quantitative methods. Under the supervision of Dr. Vikram Jaswal, I investigate autistic social interaction and perceptions of autistic people. I also work with Dr. Tanya Evans to study live dyadic interactions using EEG hyperscanning. Test3
 
 Outside of the lab, I am passionate about increasing access for disabled students in higher education in addition to being active with local LGBTQ+ organizations. I aim to continue advocacy in these areas and to bring the queer and disability communities closer together.
 
