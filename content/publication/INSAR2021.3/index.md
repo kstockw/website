@@ -17,7 +17,7 @@ publishDate: 2021-04-14T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Society for Autism Research, Virtual Meeting, Boston, MA"
+publication: "[Poster]. International Society for Autism Research, Virtual Meeting, Boston, MA"
 publication_short: ""
 
 abstract: ""

@@ -37,6 +37,12 @@ subtitle = ""
 
 +++
 ## **Invited Guest Lectures**
+<h5 style="display:inline;"><span>&#160;</span>Introduction to Psychology</h5> <style="display:inline;"> (North Carolina State University, Spring 2022)
+<ul></ul>
+
+<h5 style="display:inline;"><span>&#160;</span>Abnormal Psychology</h5> <style="display:inline;"> (Texas Tech University, Spring 2022)
+<ul></ul>
+
 <h5 style="display:inline;"><span>&#160;</span>Stereotypes and Prejudice</h5> <style="display:inline;"> (Ontario Tech University, Spring 2021)
 <ul>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/e0gad4bJJNA"
@@ -54,11 +60,14 @@ subtitle = ""
 </ul>
 
 ## **Graduate Teaching Assistant**
+<h5 style="display:inline;"><span>&#160;</span>Abnormal Psychology</h5> <style="display:inline;"> (University of Virginia, Spring 2022)
+<ul>Enrollment: 257</ul> 
+
 <h5 style="display:inline;"><span>&#160;</span>Autism: From Neurons to Neighborhoods</h5> <style="display:inline;"> (University of Virginia, Fall 2021)
-<ul>Enrollment: ~25</ul> 
+<ul>Enrollment: 27</ul> 
 
 <h5 style="display:inline;"><span>&#160;</span>Introduction to Psychology</h5> <style="display:inline;"> (University of Virginia, Spring 2020)
-<ul>Enrollment: ~300
+<ul>Enrollment: 200
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/iT1bzT0lWm4"
     target="_blank" rel="noopener">
@@ -71,8 +80,8 @@ subtitle = ""
 </ul>     
     
 <h5 style="display:inline;"><span>&#160;</span>Introduction to Child Development</h5> <style="display:inline;">  (University of Virginia, Fall 2019)
-<ul>Enrollment: ~300</ul>
+<ul>Enrollment: 346</ul>
 
 ## **Undergraduate Teaching Assistant**
 <h5 style="display:inline;"><span>&#160;</span>Social Science Research Methods</h5> <style="display:inline;"> (Binghamton University, Spring 2018)
-<ul>Enrollment: ~40</ul>
+<ul>Enrollment: 40</ul>

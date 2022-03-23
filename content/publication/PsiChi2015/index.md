@@ -17,7 +17,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Psi Chi Undergraduate Research Fair, Vestal, NY"
+publication: "[Poster]. Psi Chi Undergraduate Research Fair, Vestal, NY"
 publication_short: ""
 
 abstract: ""
