@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Impact of behavior and special interest topic in the stigmatization of college students with ASD"
-authors: [K.M. Stockwell and J. Gillis-Mattson]
-author: "K.M. Stockwell and J. Gillis-Mattson."
-date: 2018-03-03T00:00:00Z
+title: "Cultural markers: The role of gesture in identifying in- and out-group members"
+authors: [C. Galusca, K.M. Stockwell, and S. Kaman]
+author: "C. Galusca, K.M. Stockwell, and S. Kaman"
+date: 2022-05-04T00:01:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-18T00:00:00Z
+publishDate: 2022-03-22T00:00:00Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[Poster]. Annual Meeting of the Eastern Psychological Association, Philadelphia, PA"
+publication: "[Talk]. Society for Research in Child Development: Construction of the 'Other', Rio Grande, PR"
 publication_short: ""
 
 abstract: ""
@@ -25,21 +25,26 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Stigma, Autism]
+tags: []
 categories: []
 featured: false
 
-links:
-url_pdf: 
-url_code: 
-url_dataset: 
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_pdf:
+url_code:
+url_dataset:
 url_poster: 
 url_project:
 url_slides:
-url_source: 
-url_video: 
-
-
+url_source:
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

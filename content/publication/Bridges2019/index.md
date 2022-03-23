@@ -17,7 +17,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Binghamton Bridges to Baccalaureate Program Research Session, Vestal, NY"
+publication: "[Poster]. Binghamton Bridges to Baccalaureate Program Research Session, Vestal, NY"
 publication_short: ""
 
 abstract: ""
