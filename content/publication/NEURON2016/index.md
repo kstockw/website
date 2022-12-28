@@ -17,7 +17,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "29th Annual Northeast Under/graduate Research Organization for Neuroscience (NEURON) Conference, Hamden, CT"
+publication: "[Poster]. 29th Annual Northeast Under/graduate Research Organization for Neuroscience (NEURON) Conference, Hamden, CT"
 publication_short: ""
 
 abstract: ""

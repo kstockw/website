@@ -41,6 +41,14 @@ subtitle = ""
 +++
 
 ## **Presentations**
+K.M. Stockwell, Anonymous Graduate Students. (March, 2022). Deciding between multiple offers. Next Gen Psych Scholars Program. Virtual.
+
+D. Bart-Plange, L. Jamison, M. Kim, M. Larrazabal, K.M. Stockwell, E. Toner, and T. Quiles. (November, 2021). The graduate school application process. University of Virginia Psychology Club. Charlottesville, VA.
+
+K.M. Stockwell, Anonymous Graduate Students. (October, 2021). Navigating graduate school with a disability or chronic illness. Next Gen Psych Scholars Program. Virtual.
+
+K.M. Stockwell, Anonymous Graduate Students. (August, 2021). Applying as and being a queer grad student. Next Gen Psych Scholars Program. Virtual.
+
 K.M. Stockwell, C. Pettit, and A. Wood. (March, 2021). Applying to graduate school. University of Virginia Mentoring Series. Charlottesville, VA.
 
 K.M. Stockwell (October, 2020). Disability and graduate school applications. University of Virginia Diversifying Psychology Visit Day. Charlottesville, VA.
@@ -91,4 +99,4 @@ iframe {width:100%;}}}
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/wYcBDHJ0Zt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-[Click here for Part 1's transcript](https://www.buzzsprout.com/1212179/6609133) and here for Part 2's transcript (avaliable soon).
+[Click here for Part 1's transcript](https://www.deargradstudent.com/episodes/17) and [here for Part 2's transcript](https://www.deargradstudent.com/episodes/17-2).

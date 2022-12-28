@@ -17,7 +17,7 @@ publishDate: 2020-12-18T00:00:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Annual Meeting of the Eastern Psychological Association, Philadelphia, PA"
+publication: "[Poster]. Annual Meeting of the Eastern Psychological Association, Philadelphia, PA"
 publication_short: ""
 
 abstract: ""
